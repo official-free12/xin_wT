@@ -1,0 +1,6 @@
+# 2024新版彩虹易支付源码/支持当面付/50种支付插件/免签约支付/聚合支付系统
+
+一/购前说明：<br>请仔细阅读以下条款再购买，拍下即代表同意条款并遵守约定，谢谢大家支持理解！<br>example.com，拍前请慎重，请测试演示站后再决定是否购买，没有演示站的可以联系客服咨询再下单！不保证所有源码都无BUG（因为不存在决定的无BUG程序），所以请务必测试完再购买。<br>example.com，能访问宝塔管理端或可以提供所需的管理信息，如果需要配置支付、短信、APP、图片修改服务等，需另外收取费用，介意者勿拍！<br>example.com，如果QQ客服无法直接从加好友，请手动复制QQ号添加好友。客服QQ：QQ：.McV_78,.McV_62,.McV_38,.McV_25{display:none};54833898603578<br>example.com/交流/测试研究，请勿用于违规用途，不得违反国家法律，购买后用作他用，所有责任由购买者和使用者承担，一切法律责任与本店无关！<br>example.com，一些琐碎或者与商品无关问题可能不做解答，请谅解。<br>example.com，下单即默认同意以上条款，谢谢！<br>二/演示地址：<br>管理后台：example.com/admin/example.com<br>账号密码请联系客服！<br>用户前台：example.com/<br>账号密码请联系客服！<br>三/商品说明<br>example.com；<br>example.com，可进入演示站点进行测试；<br>example.com，支持支付宝当面付，微信，QQ等主流接口，支持对接第三方接口，如虎皮椒等；<br>example.com，觉得合适再下单，谢谢。<br>四/更新日期：2024年10月18日<br><br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/uE2bk" style="color: red;">https://mega-file.org/uE2bk</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
